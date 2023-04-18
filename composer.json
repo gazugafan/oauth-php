@@ -1,0 +1,12 @@
+{
+    "name": "oauth-php/oauth-php",
+    "type": "package",
+	"version": "176",
+    "description": "Mediamatic OAuth library tweaked for PHP 8.2 support",
+    "keywords": ["oauth-php", "oauth", "Mediamatic"],
+	"autoload": {
+		"classmap": [
+			"library/"
+		]
+	}
+}
